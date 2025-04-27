@@ -80,10 +80,5 @@ To run the project, you need to start both the frontend and backend servers sepa
 
 Contributions are welcome! If you want to contribute, please fork the repository and create a pull request.
 
-## License
 
-This project is licensed under the MIT License.
 
-## Contact
-
-For any questions or support, please contact the repository owner.
